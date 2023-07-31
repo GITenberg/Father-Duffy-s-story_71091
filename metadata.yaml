@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '149'
     url: http://www.gutenberg.org/2009/agents/149
     wikipedia: https://en.wikipedia.org/wiki/Joyce_Kilmer
+covers:
+- cover_type: archival
+  image_path: 71091-h/images/cover.jpg
 creator:
   author:
     agent_name: Duffy, Francis P.
     gutenberg_agent_id: '56071'
     url: http://www.gutenberg.org/2009/agents/56071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71091#Father-Duffy-s-story
 gutenberg_issued: '2023-07-02'
 identifiers:
   gutenberg: '71091'
